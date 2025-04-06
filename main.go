@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("version 1.0.6")
+	fmt.Print("Update System Working 1")
+	fmt.Print("FINAL CHECK ✅")
 }
