@@ -1,1 +1,5 @@
 .env
+go.sun
+go.mod
+updater.go
+updater.log
