@@ -1,7 +1,5 @@
 .env
-go.sum
-go.mod
-updater.go
 updater.log
 server.pid
 nas-server
+updater.py
